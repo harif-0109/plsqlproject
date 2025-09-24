@@ -1,1 +1,1 @@
-SELECT 'Hello Arif Hussain' FROM dual;
+SELECT 'Hello Arif' FROM dual;
